@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computing Engineering Studant at CIN-UFPE | CyberSecurity | Python | C/C++ | Networks and Infrastructure
+Computing Engineering Student at CIN-UFPE | CyberSecurity | Python | C/C++ | Networks and Infrastructure
 
 
 ## 🌐 Socials:
